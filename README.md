@@ -1,2 +1,2 @@
 # angular-webpack
-Angular Webpack Starter
+Angular Webpack Starter with Angular Material UI
